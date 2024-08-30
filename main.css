@@ -1,3 +1,50 @@
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
 body {
     background-color: black;
+    color: white;
+}
+
+footer {
+    border: 1px solid #f8171d;
+}
+
+/* ----- Common Tags -----*/
+a {
+    color: #f8171d;
+}
+
+/* ----- Navbar ----- */
+nav {
+    border: 1px solid #f8171d;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+nav li {
+    float: left;
+}
+  
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+nav li a:hover {
+    background-color: #f8171d;
 }
