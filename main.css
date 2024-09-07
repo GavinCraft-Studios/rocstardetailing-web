@@ -11,8 +11,80 @@ body {
     color: white;
 }
 
+/* ----- Header ----- */
+
+header {
+    background-image: url("media/service1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header div {
+    padding: 30px;
+}
+
+header div h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    padding-bottom: 0px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+header div hr {
+    width: 20%;
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-color: #f8171d;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+header div h2 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+header div h4 {
+    margin: 0px;
+    margin-top: 5px;
+    border: 0px;
+    padding: 0px;
+    font-family:'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+header div a button {
+    background-color: #f8171d;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+/* ----- Footer -----*/
+
 footer {
     border: 1px solid #f8171d;
+    margin-top: 8px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer hr {
+    width: 50%;
+    margin: 0px;
+    padding: 0px;
+    border-color: #f8171d;
 }
 
 /* ----- Common Tags -----*/
@@ -23,6 +95,8 @@ a {
 /* ----- Navbar ----- */
 nav {
     border: 1px solid #f8171d;
+    margin-bottom: 8px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 nav ul {
