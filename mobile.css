@@ -19,7 +19,7 @@
     }
 
     header div button {
-        size: 50%;
+        scale: 50%;
     }
 
     /* --- Footer --- */
@@ -28,6 +28,6 @@
     }
 
     footer center img {
-        size: 25%;
+        scale: 25%
     }
 }
