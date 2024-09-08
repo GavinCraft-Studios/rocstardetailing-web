@@ -7,6 +7,14 @@
     }
 
     header div hr {
-        width: 300px;
+        width: 290px;
+    }
+
+    header div h2 {
+        font-size: 15px;
+    }
+
+    header div h4 {
+        font-size: 10px;
     }
 }
