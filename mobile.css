@@ -5,4 +5,8 @@
     header div h1 {
         font-size: 30px;
     }
+
+    header div hr {
+        width: 100px;
+    }
 }
