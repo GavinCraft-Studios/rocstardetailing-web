@@ -18,9 +18,12 @@
         font-size: 10px;
     }
 
-    header div button {
-        width: 80px;
+    header div a button {
+        width: 100px;
         height: 40px;
+
+        font-size: 12px;
+        padding: 0px;
     }
 
     /* --- Footer --- */
@@ -31,5 +34,9 @@
     footer center img {
         width: 10px;
         height: 10px;
+
+        margin:0px;
+        border:0px;
+        padding:0px;
     }
 }
