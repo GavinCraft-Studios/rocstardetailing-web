@@ -1,0 +1,8 @@
+/* ----- Only for mobile devices -----*/
+@media screen and (max-width: 600px) {
+
+    /* --- Header --- */
+    header div h1 {
+        font-size: 30px;
+    }
+}
