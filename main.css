@@ -47,6 +47,7 @@ header div h2 {
     padding: 0px;
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 25px;
 }
 
 header div h4 {
@@ -56,6 +57,7 @@ header div h4 {
     padding: 0px;
     font-family:'Courier New', Courier, monospace;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 18px;
 }
 
 header div a button {
