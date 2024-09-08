@@ -7,7 +7,7 @@
     }
 
     header div hr {
-        width: 270px;
+        width: 265px;
     }
 
     header div h2 {
@@ -19,12 +19,15 @@
     }
 
     header div button {
-        size: 75%;
+        size: 50%;
     }
 
     /* --- Footer --- */
     footer {
         font-size: 6px;
-        image-resolution: 25%;
+    }
+
+    footer center img {
+        size: 25%;
     }
 }
